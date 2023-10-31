@@ -1,2 +1,0 @@
-# Janaranjani
-Traffic management
